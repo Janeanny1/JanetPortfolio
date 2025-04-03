@@ -1,7 +1,5 @@
 # JanetPortfolio
 
-# My Portfolio
-
 ## Overview
 🖥️ This is my personal portfolio website, showcasing my skills, education, projects, and interests. The website is designed to provide an insight into my professional background and connect with potential collaborators and employers.
 
